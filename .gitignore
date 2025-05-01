@@ -1,0 +1,19 @@
+# .gitignore
+
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+.env
+
+# IDE and Editor folders
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
